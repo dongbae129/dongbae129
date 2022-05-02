@@ -42,7 +42,7 @@ Web-front-end Developer
             <img src="https://img.shields.io/badge/-Naver-white?logo=naver" alt="">
         </a> : <a href="mailto:dongbae129@naver.com">dongbae129@naver.com</a>
     </p>
-    <p>Portfolio Website : <a href="https://baeportfolio.xyz" target="_blank">https://baeportfolio.xyz</a></p>
+    <p>Portfolio Website : <a href="https://bdportfolio.xyz" target="_blank">https://bdportfolio.xyz</a></p>
 
 <!--
 **dongbae129/dongbae129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
